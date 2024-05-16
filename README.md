@@ -1,2 +1,3 @@
-# Nattus
-Nattus é uma plataforma (aplicação) para entrega e venda de produtos de agricultura orgânica. 
+<h1><p align=center><img align="center" src="https://i.imgur.com/POQY3Qd.png" height="40" width="65"/> Nattus <img align="center" src="https://i.imgur.com/POQY3Qd.png" height="40" width="65"/></p></h1>
+
+<p>Nattus é uma plataforma para entrega e venda de produtos de agricultura orgânica. Através dele é possível que o produtor possa negociar diretamente com o cliente, combinando preços e se informando sobre os seus produtos e pedidos, criando relações de confiança entre cliente e produtor para um melhor aproveitamento da plataforma e otimização na hora de fazer seu pedido a partir do histórico de compras.</p>
