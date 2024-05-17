@@ -6,11 +6,14 @@
 <p><b>Layout da Página Inicial Completo</b></p>
 <img src="https://i.imgur.com/lkhRxxm.png" height="1500" width="550" />
 
+<p><b>Layout da Área de Mercado</b></p>
+<img src="https://i.imgur.com/ar7b2BG.png" height="1500" width="550" />
+
 <h2>Funcionalidades <img margin-width="80"/>  <img src="https://i.imgur.com/V0yTCQx.png" height="35" width="35" /></h2>
 
 <p><img src="https://i.imgur.com/aAEUjyo.png" height="16" width="16" /> <img margin-width="100"/><b>Área do Cliente</b></p>
 <p><img src="https://i.imgur.com/aAEUjyo.png" height="16" width="16" /> <img margin-width="100"/><b>Área do Produtor/Vendedor</b></p>
-<p><img src="https://i.imgur.com/aAEUjyo.png" height="16" width="16" /> <img margin-width="100"/><b>Área de Compras (Supermercado)</b></p>
+<p><img src="https://i.imgur.com/aAEUjyo.png" height="16" width="16" /> <img margin-width="100"/><b>Área de Compras (Mercado)</b></p>
 <p><img src="https://i.imgur.com/aAEUjyo.png" height="16" width="16" /> <img margin-width="100"/><b>Área Administrativa</b></p>
 
 <h2>Autor <img margin-width="-31"/>  <img src="https://i.imgur.com/kYGOd1k.png" height="35" width="35" /></h2>
