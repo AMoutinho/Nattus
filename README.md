@@ -16,5 +16,7 @@
 <p><img src="https://i.imgur.com/aAEUjyo.png" height="16" width="16" /> <img margin-width="100"/><b>Área de Compras (Mercado)</b></p>
 <p><img src="https://i.imgur.com/aAEUjyo.png" height="16" width="16" /> <img margin-width="100"/><b>Área Administrativa</b></p>
 
+<h2>Instruções <img margin-width="80"/>  <img src="https://i.imgur.com/zVhcXCQ.png" height="35" width="35" /></h2>
+
 <h2>Autor <img margin-width="-31"/>  <img src="https://i.imgur.com/kYGOd1k.png" height="35" width="35" /></h2>
 <a href="https://github.com/AhMoutinho/" title="André Moutinho"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> André Moutinho</a></br> 
